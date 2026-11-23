@@ -16,3 +16,4 @@ the same seller.
   the issue-detection system can be validated.
 - The dataset is not included in this repository. See "Setup" below.
 
+Note: Tickets in this project are synthetic.
